@@ -19,3 +19,6 @@ https://k0j1.github.io/CSSAnimation/TVShowSlider.html
 
 * ParallaxPhoto<br>
 https://k0j1.github.io/CSSAnimation/ParallaxPhoto.html
+
+* スライドショー<br>
+https://k0j1.github.io/CSSAnimation/SlideShow.html
