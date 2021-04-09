@@ -10,3 +10,6 @@ https://k0j1.github.io/CSSAnimation/Sumbnail.html
 
 * サークルスライダー<br>
 https://k0j1.github.io/CSSAnimation/CircleSlider.html
+
+* ホバースライダー<br>
+https://k0j1.github.io/CSSAnimation/HoverSlider.html
