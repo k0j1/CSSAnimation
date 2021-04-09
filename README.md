@@ -17,5 +17,5 @@ https://k0j1.github.io/CSSAnimation/HoverSlider.html
 * TVショースライダー<br>
 https://k0j1.github.io/CSSAnimation/TVShowSlider.html
 
-* ParallaxPhoto.html<br>
+* ParallaxPhoto<br>
 https://k0j1.github.io/CSSAnimation/ParallaxPhoto.html
